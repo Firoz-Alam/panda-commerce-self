@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #feeae9;
+}
+.row{
+    padding: 10px 40px;
+}
+.price{
+    color: #ff3f87;
+}
+.button-bg{
+    background-image: linear-gradient(to bottom,rgb(255, 88, 155) 0%, rgb(255, 19, 101) 100%);
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+    padding: 9px 25px;
+}
