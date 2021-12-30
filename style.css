@@ -42,3 +42,17 @@
 .categories img{
     width: 100px;
 }
+
+.subscrib{
+    height: 300px;
+}
+.subscrib h6{
+    color: lightslategrey;
+}
+
+.form-control{
+    margin-bottom: 5px;
+}
+.footer{
+    text-align: center;
+}
